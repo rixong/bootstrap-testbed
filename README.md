@@ -4,3 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Set up basic React App
 Setup remote repo on Github
+Installed Bootstrap - npm install bootstrap
